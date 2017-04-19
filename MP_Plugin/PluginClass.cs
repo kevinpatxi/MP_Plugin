@@ -1,6 +1,6 @@
 ﻿/*
-This is a sample plugin frame work
- 
+ * This is a sample plugin frame work for Mission Planner 
+ * 
 */
 
 using System;
