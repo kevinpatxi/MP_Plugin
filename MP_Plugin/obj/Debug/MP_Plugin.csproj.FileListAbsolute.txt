@@ -1,0 +1,4 @@
+c:\Program Files (x86)\Mission Planner\plugins\MP_Plugin.dll
+c:\Program Files (x86)\Mission Planner\plugins\MP_Plugin.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\MP_Plugin\MP_Plugin\obj\Debug\MP_Plugin.dll
+c:\users\kevin\documents\visual studio 2013\Projects\MP_Plugin\MP_Plugin\obj\Debug\MP_Plugin.pdb
